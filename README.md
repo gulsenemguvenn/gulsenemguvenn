@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gülsenem 👋</h1>
+<h1 align="center">Hi, I'm Gülsenem Güven👋</h1>
 
 <p align="center">
   Computer Engineer | Software Test Engineer (QA)
@@ -38,9 +38,10 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
 
 
 ---
