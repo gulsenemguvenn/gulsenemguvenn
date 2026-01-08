@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Gülsenem 👋</h1>
 
 <p align="center">
-  <b> Computer Engineer | Software Test Engineer (QA) </b><br/>
-  <i>Quality-focused • Detail-oriented • Continuous learner</i>
+  Computer Engineer | Software Test Engineer (QA)
 </p>
 
 <p align="center">
@@ -12,7 +11,8 @@
 </p>
 
 ---
-## 👩‍💻 About Me
+
+## 🧍‍♀️ About Me
 
 > 🎓 Computer Engineering graduate  
 > 🧪 Software Testing & Quality Assurance  
@@ -22,13 +22,14 @@
 - Combining **developer mindset** with **quality-driven testing approach**  
 - Actively improving skills in **manual testing, test automation, and API testing**
 
+---
+
 ## 🧠 Tech Stack & Expertise
 
 ### 🧪 QA & Testing
 <p>
   <img src="https://img.shields.io/badge/Manual%20Testing-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium%20Cucumber%20(BDD)-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
@@ -36,8 +37,11 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-4169E1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
 
 ---
 
